@@ -2124,8 +2124,8 @@
 
 		.image.featured {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin: 0 0 0 6em;
+			width: 70%;
 		}
 
 			.image.featured img {
