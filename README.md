@@ -1,6 +1,6 @@
 # <Portafolio>
 ```
-Conoce mis skills y algunos de los proyectos que he realizo durante mi aprendizaje en Laboratoria
+Conoce mis skills y algunos de los proyectos que he realizado durante mi aprendizaje en Laboratoria CDMX
 ```
 ```
 E-commerce Entramados Labor Textil
