@@ -8,7 +8,7 @@ E-commerce Entramados Labor Textil
 ![ ](./images/entramados.PNG)
 
 ```
-Win Russian
+Win Russia
 ```
 ![ ](./images/wr.PNG)
 
@@ -18,12 +18,12 @@ SwApi
 ![ ](./images/swapi.PNG)
 
 ```
-Pokedex
+Pokédex
 ```
 ![ ](./images/pokedex.PNG)
 
 ```
-RedLaboratorians
+<RedLaboratorians>
 ```
 ![ ](./images/RedLaboratorians.PNG)
 
