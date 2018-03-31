@@ -6,21 +6,27 @@ Conoce mis skills y algunos de los proyectos que he realizo durante mi aprendiza
 E-commerce Entramados Labor Textil
 ```
 ![ ](./images/entramados.PNG)
+
 ```
-Win Russian```
+Win Russian
+```
 ![ ](./images/wr.PNG)
+
 ```
 SwApi
 ```
 ![ ](./images/swapi.PNG)
+
 ```
 Pokedex
 ```
 ![ ](./images/pokedex.PNG)
+
 ```
 RedLaboratorians
 ```
 ![ ](./images/RedLaboratorians.PNG)
+
 ```
 LabCar
 ```
