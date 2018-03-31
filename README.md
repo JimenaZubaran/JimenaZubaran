@@ -8,23 +8,23 @@ E-commerce Entramados Labor Textil
 ![ ](./images/entramados.PNG)
 ```
 Win Russian```
-![Newsfeed](./images/wr.PNGg)
+![ ](./images/wr.PNG)
 ```
 SwApi
 ```
-![Profile](./images/swapi.PNG)
+![ ](./images/swapi.PNG)
 ```
 Pokedex
 ```
-![Photos](././images/pokedex.PNG)
+![ ](./images/pokedex.PNG)
 ```
 RedLaboratorians
 ```
-![Photos](././images/RedLaboratorians.PNG)
+![ ](./images/RedLaboratorians.PNG)
 ```
 LabCar
 ```
-![Photos](././images/labcar.PNG)
+![ ](./images/labcar.PNG)
 
 
 ## < l a b o r a t o r i a >
