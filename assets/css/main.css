@@ -2196,6 +2196,7 @@
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1em 0 0;
+				display: blo;
 			}
 
 				ul.icons li:last-child {
@@ -2410,12 +2411,14 @@
 				ul.posts article .image {
 					display: block;
 					margin-right: 1.5em;
-					min-width: 4em;
-					width: 4em;
+					min-width: 1em;
+					width: 1em;
+					height: 1em;
 				}
 
 					ul.posts article .image img {
 						width: 100%;
+						height: 100%;
 					}
 
 				ul.posts article header {
@@ -2458,6 +2461,8 @@
 		dl dd {
 			margin-left: 2em;
 		}
+
+		
 
 /* Mini Post */
 
@@ -3210,6 +3215,12 @@
 		width: 100%;
 	}
 
+	#proyects{
+		text-align: center;
+		background-color: #f4f4f4;
+	}
+
+
 /* Sidebar */
 
 	#sidebar {
@@ -3282,6 +3293,25 @@
 		font-size: 0.8em;
 	}
 
+	#intro > div:nth-child(3) > article,
+	#intro > div:nth-child(4) > article{
+		width: 80%;
+		padding: 1em;
+		margin: auto;
+	}
+	
+
+	.habilities > h2,
+	.habilities > h3 {
+		display: inline;
+		background-color: #f4f4f4;
+		color: #cc1c65;
+		text-align: center;
+	}
+	.habilities > h3{
+		width: 100%;
+	}
+	
 	@media screen and (max-width: 1280px) {
 
 		#intro {
@@ -3327,7 +3357,8 @@
 /* Footer */
 
 	#footer .icons {
-		color: #aaaaaa;
+		color: #cc1c65;
+		display: block;
 	}
 
 	#footer .copyright {
